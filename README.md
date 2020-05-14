@@ -1,3 +1,15 @@
+## ⚛ React UseContext for state management
+
+---
+
+ ➕ simple
+
+ ➖ all comps that use a specific, changed context will re-render
+
+ref: https://www.youtube.com/watch?v=35lXWvCuM8o
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
